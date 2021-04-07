@@ -45,6 +45,7 @@ public int divide0() {
 	else{
 		int resul=num1 / num2;
 		return resul;
+		
 	}
 }
 
